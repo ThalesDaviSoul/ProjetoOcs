@@ -1,6 +1,6 @@
-Trabalho de OCS
-Dia 28/04/2022
+# Aula de OCS
+**Nomes**: Eduardo Santos Birchal e Thales Davi de Sousa
 
-Integrantes:
-- Thales Davi de Souza
-- Eduardo Santos Birchal
+**Turma**: Turma 203 - Desenvolvimento de Sistemas
+
+**Data**: 29/04/2022
